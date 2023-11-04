@@ -135,6 +135,11 @@ section{
   color: #d3ad7f;
 }
 
+.header .search-form{
+  width: 90%;
+  right: 2rem;
+}
+
 .header .icons div{
     color:#fff;
     cursor: pointer;
